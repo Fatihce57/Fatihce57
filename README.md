@@ -1,5 +1,5 @@
 ### Hi I am Fatih! 👋
-
+- 🌱 I’m a MERN Stack Developer
 
 
 
