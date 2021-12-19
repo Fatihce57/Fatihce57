@@ -1,6 +1,5 @@
-### Hi I am Fatih! 👋
-- 🌱 I’m a MERN Stack Developer
-
+### Hi there and welcome to my GitHub page! 👋
+- 🌱 My name is Fatih and I am a MERN Stack-developer. I do a lot of things, and some of them you may even find interesting.
 
 
 
