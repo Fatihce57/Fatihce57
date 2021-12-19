@@ -3,6 +3,7 @@
 ### Hi there and welcome to my GitHub page! 👋
 - 🌱 My name is Fatih and I am a MERN Stack-developer. I do a lot of things, and some of them you may even find interesting.
 
+---
 
 ### What do I do?
 
@@ -19,16 +20,19 @@
 <img src="https://img.icons8.com/color/50/000000/trello.png"/>
 </p>
 
+---
 
 ### You can find my portfolio page here
 https://fatihce.netlify.app/
 
+---
 
 ### Send me a message
 <a href="https://www.linkedin.com/in/fatih-c-8a52061a9/" target="_blank">
 <img src="https://img.icons8.com/color/96/000000/linkedin.png" />
 </a>
 
+---
 
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatihce57&show_icons=true)
