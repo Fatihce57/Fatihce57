@@ -1,4 +1,4 @@
-<img src="/logo.png" alt="logo" /> <img src="https://camo.githubusercontent.com/5e7ed399206be8f46927c0af32ee347c7322cf8c66bcf1e605602f8d6d309435/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37714531594e3761424f4650527738452f736f757263652e676966" align="right" width="400" height="250" data-canonical-src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/source.gif" style="max-width: 100%;">
+<img src="/logo.png" alt="logo" width="150" height="150" /><img src="https://camo.githubusercontent.com/5e7ed399206be8f46927c0af32ee347c7322cf8c66bcf1e605602f8d6d309435/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37714531594e3761424f4650527738452f736f757263652e676966" align="right" width="400" height="250" data-canonical-src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/source.gif" style="max-width: 100%;">
 
 ### Hi there and welcome to my GitHub page! 👋
 - 🌱 My name is Fatih and I am a MERN Stack-developer. I do a lot of things, and some of them you may even find interesting.
